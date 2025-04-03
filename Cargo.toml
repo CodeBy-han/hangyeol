@@ -1,0 +1,7 @@
+[package]
+name = "hangyeol"
+version = "0.1.0"
+edition = "2024"
+dependencies = "hangyeol is a personal Rust library by its author, encompassing a range of self-selected functionalities."
+
+[dependencies]
