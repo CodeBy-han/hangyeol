@@ -2,8 +2,6 @@
 name = "hangyeol"
 version = "0.1.0"
 edition = "2024"
-dependencies = "hangyeol is a personal Rust library by its author, encompassing a range of self-selected functionalities."
+description = "hangyeol은 작성자가 직접 선택한 다양한 기능을 포함하는 개인적인 Rust 라이브러리입니다."
 license = "MIT"
 authors = ["hangyeol <hangyeolg84@gamil.com>"]
-
-[dependencies]
